@@ -1,1 +1,0 @@
-# microsoft-developer-config-redis-caching
